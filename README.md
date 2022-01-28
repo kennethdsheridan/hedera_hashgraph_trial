@@ -1,2 +1,2 @@
-# hedera_hashgraph_trial
+# Hedera (DAG) Hashgraph - Trial
 First trial run with Hedera (DAG) Hashgraph
